@@ -10,4 +10,4 @@ end
 
 cc = Dog.new
 cc.name = "cc"
-cc.name
+puts cc.name
