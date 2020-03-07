@@ -9,4 +9,5 @@ class Dog
 end
 
 cc = Dog.new
-cc.name = "n"
+cc.name = "cc"
+cc.name
