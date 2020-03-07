@@ -7,7 +7,3 @@ class Dog
     @dog_name
   end
 end
-
-cc = Dog.new
-cc.name = "cc"
-puts cc.name
